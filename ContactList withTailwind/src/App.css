@@ -1,0 +1,11 @@
+.ActiveNav {
+  color: rgb(182, 29, 29);
+  width: 100%;
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    90deg,
+    #ffffff 0%,
+    #ffffff 49%,
+    #991b1b 100%
+  );
+}
